@@ -1,5 +1,5 @@
 <footer>
-    <p class="uppercase">All Rights Reserved “Magebit” 2016.</p>
+    <p class="uppercase">All Rights Reserved 2016.</p>
 </footer>
 
 <script
